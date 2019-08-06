@@ -1,2 +1,5 @@
-# async-adventures-part-3
-Repo supporing article entitled: Adventures in Async. Part III: Crafting Advanced reactive – Stateful  Lagom Microservices and IBM Reactive Platform
+# Adventures in Async: Part III Master Reactive systems on IBM Cloud
+
+# This repo https://bit.ly/2GMrKVe
+
+
